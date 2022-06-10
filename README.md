@@ -1,0 +1,2 @@
+# Customer-Churn-Analysis-using-Power-BI
+Churn, or customer churn, is an important metric for companies to track when trying to expand their business. This metric represents the number of customers that have stopped using your product or service during a given period of time.  In our project, we focus on the telecom industry in which we analyze the customer data to suggest the company with possible retention strategies based on the type of churn segments (the type of reason behind churning).
